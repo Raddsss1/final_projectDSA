@@ -15,7 +15,6 @@ $count = mysqli_fetch_row($all_data);
 $total_records = $count[0]; // Total number of records
 
 $total_pages = ceil($total_records / $records_per_page);
-
 	
 ?>
 
