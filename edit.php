@@ -25,8 +25,6 @@ $contact = $resultData['contact'];
 </head>
 
 <body>
-
-<h2>EDIT FORM</h2>
 <section class="container">
     <header>Edit Data</header>
     <form action="#" class="form">

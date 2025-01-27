@@ -37,7 +37,7 @@ $total_pages = ceil($total_records / $records_per_page);
 
 		<h1 class="heading"> Student Table</h1>
 
-		<button><a href="edit.php" class="addbut" >Add New Data</a></button>
+		<button> <a href="edit.php" class="addbut" >Add New Data</a></button>
 		<p>Total Records: <?php echo $total_records; ?></p>
 		
 		<!--TABLE-->
@@ -82,4 +82,4 @@ $total_pages = ceil($total_records / $records_per_page);
         </ul>
     </nav>
 	</body>
-</html>
+</html>	
